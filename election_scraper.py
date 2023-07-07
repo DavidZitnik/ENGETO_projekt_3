@@ -150,5 +150,5 @@ if __name__ == "__main__":
         print("Chyba argumentu")
     else:
         # adresa = "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101"
-        # csv_soubor = Benesov_test.csv"
+        # csv_soubor = "benesov_test.csv"
         main(ADRESA, CSV_SOUBOR)
